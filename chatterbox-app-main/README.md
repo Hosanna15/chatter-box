@@ -58,22 +58,6 @@ To get a local copy of this project up and running, follow these steps.
 -   Node.js & npm installed: [Download Node.js](https://nodejs.org/en/)
 -   A MongoDB Atlas account: [Create a free account](https://www.mongodb.com/cloud/atlas/register)
 
-### Installation & Setup
-
-1.  **Clone the GitHub repository:**
-    ```sh
-    git clone [https://github.com/Hosanna15/chatterbox-app.git](https://github.com/Hosanna15/chatterbox-app.git)
-    cd chatterbox-app
-    ```
-
-2.  **Configure the Backend:**
-    -   Navigate to the backend directory: `cd backend`
-    -   Install the required packages: `npm install`
-    -   In the `backend/index.js` file, replace the placeholder with your own MongoDB connection string.
-
-3.  **Configure the Frontend:**
-    -   Navigate to the frontend directory: `cd ../frontend`
-    -   Install the required packages: `npm install`
 
 ### Running the Application
 
